@@ -1,0 +1,6 @@
+tractor_homebase,tractor_depot,driver_code,shift_date,driver_name,driver_type,shift_length,paid_hours,working_time,breaks,poa,lead_in_time,driving_time,on_site_time,inter_plan_time,lead_out_time,late_load_flag(Shift),Exclusion Reason,stobart_feed_file_date
+MORBEL,Bellshill,BRANKINW,23-07-2024,WILLIAM BRANKIN,ESL DAY,12:30,12:00,08:10,04:20,00:00,01:48,04:03,03:40,02:38,00:21,Y,Late Loading,23-07-2024
+MORBEL,Bellshill,BROWNC2,23-07-2024,COLIN BROWN,ESL DAY,10:00,09:30,08:53,01:07,00:00,00:30,08:07,01:57,00:30,00:00,Y,Late Loading,23-07-2024
+MORBEL,Bellshill,CAMEROND,23-07-2024,DANIEL CAMERON,ESL DAY,11:45,11:15,10:27,01:18,00:00,00:57,07:55,01:54,00:00,00:59,Y,Late Loading,23-07-2024
+MORBEL,Bellshill,CLERKSOR,23-07-2024,ROBERT CLERKSON,ESL DAY,10:00,09:30,10:00,00:00,00:00,01:35,05:09,01:09,00:00,02:07,Y,Late Loading,23-07-2024
+MORBEL,Bellshill,CORRIGAF,23-07-2024,FRANCIS CORRIGAN,ESL DAY,11:45,11:15,10:33,01:12,00:00,01:01,11:00,01:13,01:16,00:00,,Lead Out=0 mins,23-07-2024
